@@ -1,7 +1,6 @@
 # Gen-AI-Chat-GUI
 
-🚀 **Note:** The original source code for this project is stored in a **private repository**.  
-This repository only contains the **executable (.exe) file** for users to download and use.
+🚀 <i><u>Note:</u> The original source code for this project is stored in a <u>private repository</u>.  This repository only contains the <u>executable (.exe) file</u> for users to download and use.</i>
 
 Gen-AI-Chat-GUI is a powerful and intuitive desktop application designed to enhance productivity with AI-powered features. It offers seamless AI interaction, audio tracking, screenshot capture, and customizable settings to tailor the experience to your needs.
 
