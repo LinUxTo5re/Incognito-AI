@@ -15,6 +15,15 @@ Gen-AI-Chat-GUI is a powerful and intuitive desktop application designed to enha
 - **Screen Protection:** Safeguard your screen content (OS-dependent).
 - **Language Support:** Select from multiple programming languages.
 
+## Set Up (Must Follow)
+
+-  **Clone Repo:**
+    ```sh
+   git clone https://github.com/LinUxTo5re/Incognito-AI.git
+   cd Incognito-AI
+   ```
+-  **Download .exe Release:** [Release v25.3](https://github.com/LinUxTo5re/Incognito-AI/releases/tag/v25.3)
+-  Move .exe file into Incognito-AI and Start Incognito-AI
 ## Usage Guide
 
 ### **User Settings (⚙️)**
