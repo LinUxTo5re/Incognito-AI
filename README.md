@@ -23,7 +23,7 @@ Gen-AI-Chat-GUI is a powerful and intuitive desktop application designed to enha
    cd Incognito-AI
    ```
 -  **Download .exe Release:** [Release v25.3](https://github.com/LinUxTo5re/Incognito-AI/releases/tag/v25.3)
--  Move .exe file into Incognito-AI and Start Incognito-AI
+-  Move .exe file into Incognito-AI and Execute Incognito-AI.exe
 ## Usage Guide
 
 ### **User Settings (⚙️)**
