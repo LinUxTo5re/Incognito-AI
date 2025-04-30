@@ -136,6 +136,15 @@ This allows you to smoothly change between cheat mode and normal mode by hiding/
 
 ![alt text](Images/Cheat_Mode.png)
 
+## Pricing (excluding 15 days free trial)
+
+| Price (INR) | Price (USD) | Period | Discount/Free |
+|---------|:---------:|:--------:|:--------:|
+| ₹49 | $0.58 | Daily | - |
+| ₹399 | $4.71 | Monthly | 20% on 3 months purchase |
+| ₹2400 | $28.37 | 6 Months | Extra 1 month |
+| ₹4800 | $56.74 | Yearly | Extra 2 months |
+
 ## Contact
 
 For any queries, updates, suggestions, new feature requests, or Pro Mode activation, reach out at:
