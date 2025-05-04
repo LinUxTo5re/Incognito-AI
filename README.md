@@ -142,7 +142,7 @@ This allows you to smoothly change between cheat mode and normal mode by hiding/
 |---------|:---------:|:--------:|:--------:|
 | ₹49 | $0.58 | Daily | - |
 | ₹399 | $4.71 | Monthly | 20% on 3 months purchase |
-| ₹2100 | $24.78 | 6 Months | Extra 1 month |
+| ₹1999 | $23.57 | 6 Months | Extra 1 month |
 | ₹3999 | $47.18 | Yearly | Extra 2 months |
 
 Please send the payment details via email for verification. Thank you!
