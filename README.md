@@ -13,7 +13,6 @@ Gen-AI-Chat-GUI is a powerful and intuitive desktop application designed to enha
 - **Screenshot Capture:** Quickly take and annotate screenshots.
 - **Always On Top:** Keep the app visible above other windows for easy access.
 - **Screen Protection:** Safeguard your screen content (OS-dependent).
-- **Language Support:** Select from multiple programming languages.
 
 ## Set Up (Must Follow)
 
@@ -84,19 +83,6 @@ A **privacy-enhancing** feature that keeps your app hidden from screen-sharing a
   - **Gray Button:** Hidden from participants.
   - **White Button:** Visible to participants.
 ---
-### **Language Support**
-This dropdown allows you to specify a programming language for **chat and screenshots**.
-
-- The AI will prioritize responses in the selected language.
-- You can change the language anytime during a session.
-- You can also specify a language manually in your message instead of selecting it from the dropdown.
----
-### **Cheat Mode (🤖)**
-This allows you to smoothly change between cheat mode and normal mode by hiding/unhiding buttons
-
-- ON - Magic happens
-- OFF - Normal mode 
----
 ## **Trial Mode (15 Days) vs. Pro Mode**
 
 | Feature | Trial Mode | Pro Mode | Dev |
@@ -107,8 +93,6 @@ This allows you to smoothly change between cheat mode and normal mode by hiding/
 | **Screenshot Capture (📸)** | ❌ | ✅ | Completed |
 | **Always On Top (📌)** | ✅ | ✅ |  Completed |
 | **Screen Protection (🤝)** | ✅ | ✅ | Completed |
-| **Language Support** | ✅ | ✅ | Completed |
-| **Cheat Mode (🤖)** | ✅ | ✅ | Completed |
 
 ---
 ---
@@ -131,10 +115,6 @@ This allows you to smoothly change between cheat mode and normal mode by hiding/
 - App Profile - Set up font color, bg color, opacity, cursor type and screenshot background
 
 ![alt text](Images/App_Profile.png)
-
-- Cheat Mode - Smoothly hide/unhide buttons
-
-![alt text](Images/Cheat_Mode.png)
 
 ## Pricing (excluding 15 days free trial) - EVERYTHING IS NEGOTIABLE
 
