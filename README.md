@@ -1,18 +1,17 @@
 # Gen-AI-Chat-GUI
 
-🚀 <i><u>Note:</u> The original source code for this project is stored in a <u>private repository</u>.  This repository only contains the <u>executable (.exe) file</u> for users to download and use.</i>
+🚀 **Note:** This repo includes only the executable (.exe) file. The full source code is stored in a **private repository**.
 
-Gen-AI-Chat-GUI is a powerful and intuitive desktop application designed to enhance productivity with AI-powered features. It offers seamless AI interaction, audio tracking, screenshot capture, and customizable settings to tailor the experience to your needs.
+**Gen-AI-Chat-GUI** is a smart, lightweight desktop app built for seamless AI interaction, screen tools, and full UI customization.
 
-## Features
+## 🔧 Features
 
-- **User Settings:** Modify font color, background color, window opacity, and cursor styles.
-- **AI Chat:** Engage in intelligent conversations with an AI assistant.
-- **Right-Click Control:** Enable or disable right-click functionality (OS-dependent).
-- **Audio Tracking:** Record and process audio efficiently (feature availability depends on the OS).
-- **Screenshot Capture:** Quickly take and annotate screenshots.
-- **Always On Top:** Keep the app visible above other windows for easy access.
-- **Screen Protection:** Safeguard your screen content (OS-dependent).
+- 🎨 **Custom UI** – Change font, colors, opacity & cursor style  
+- 🤖 **AI Chat** – Smart conversations with your AI assistant  
+- 🖱️ **Right-Click Control** – Enable/disable as needed  
+- 📸 **Screenshot Tool** – Capture & annotate with ease  
+- 📌 **Always On Top** – Keep the app visible over others  
+- 🔒 **Screen Protection** – Prevent unwanted visibility
 
 ## Set Up (Must Follow)
 
@@ -25,105 +24,86 @@ Gen-AI-Chat-GUI is a powerful and intuitive desktop application designed to enha
 -  Move .exe file into Incognito-AI and Execute Incognito-AI.exe
 ## Usage Guide
 
-### **User Settings (⚙️)**
-Access settings by clicking the ⚙️ (gear icon):
+## ⚙️ User Settings
 
-- **Account Settings:**
-  - Enter your username in the text field labeled **"Enter User Name"**.
-  - Add your Gemini API key under **"Place Gemini API Key"**.
-  - For help generating an API key, visit: [Gemini API Key Documentation](https://ai.google.dev/gemini-api/docs/api-key).
-  - Click **Save** to store your account details in AWS for future reference.
-  - Click **Close** to exit the user profile, or use the (X) button.
+Click the gear icon (⚙️) to access:
 
-- **App Preferences:**
-  - Adjust font color, background color, and opacity.
-  - Select a cursor type for screenshots.
-  - Toggle screenshot background visibility. Keep it **unchecked** for more security.
-  - Apply changes immediately or save them to the database.
+- **Account**
+  - Enter your username and Gemini API key
+  - [Get API key](https://ai.google.dev/gemini-api/docs/api-key)
+
+- **Preferences**
+  - Customize font, background, opacity & cursor
+  - Toggle screenshot background (unchecked = secure)
 
 ---
-### **AI Chat**
-Engage in intelligent conversations with the AI assistant:
 
-- Type your message in **"Type your message and press Enter..."**.
-- Press **Enter** to send the message to Gemini API and receive a response.
-- **Note:** You **cannot** paste images or screenshots into the chat.
-- **Text Limit:** Messages can be up to **250 words**.
+## 🤖 AI Chat
 
-### **Right-Click Control (🖱️)**
-By default, this feature hides the **Copy** and **Select All** options in the chat box when right-clicking.
-
-- Even when enabled, you can still copy text manually.
-- If **enabled**, the right-click menu will hide the **Copy** and **Select All** options.
----
-### **Audio Tracking (🎤)**
-- Records audio using the system's built-in audio driver.
-- Converts speech to text using the **VOSK model**.
-- Supports audio-to-text conversion **up to 250 words**.
----
-### **Screenshot Capture (📸)**
-Capture a specific area of the screen:
-
-- Click and **drag** to select the area to capture.
-- The selected area is **sent to Gemini API** for processing.
-- In **App Settings**, you can configure:
-  - **Cursor type** for screenshots (default: **ArrowCursor**).
-  - **Screenshot background visibility** (default: **transparent without a border**).
----
-### **Always On Top (📌)**
-- Keeps the application window on top of other windows.
-- Click to toggle **Always on Top** functionality.
----
-### **Screen Protection (🤝)**
-A **privacy-enhancing** feature that keeps your app hidden from screen-sharing applications.
-
-- **Enabled by default:** The app remains **invisible** to third-party websites and screen-sharing tools.
-- If **disabled**, the app becomes **visible** to participants in a screen-sharing session.
-- **Indicator:**
-  - **Gray Button:** Hidden from participants.
-  - **White Button:** Visible to participants.
----
-## **Trial Mode (15 Days) vs. Pro Mode**
-
-| Feature | Trial Mode | Pro Mode | Dev |
-|---------|:---------:|:--------:|:--------:|
-| **AI Chat** | ✅ | ✅ | Completed |
-| **Right-Click Control (🖱️)** | ❌ | ✅ | Completed |
-| **Audio Tracking (🎤)** | ❌ | ✅ |  In Progress | 
-| **Screenshot Capture (📸)** | ❌ | ✅ | Completed |
-| **Always On Top (📌)** | ✅ | ✅ |  Completed |
-| **Screen Protection (🤝)** | ✅ | ✅ | Completed |
+- Type and hit **Enter** to chat with Gemini API  
+- Max input: **250 words**  
+- ❌ No image/screenshot pasting supported  
 
 ---
+
+## 🖱️ Right-Click Control
+
+- Hides **Copy** & **Select All** from right-click menu  
+- Manual copy still works  
+
 ---
+
+## 📸 Screenshot Capture
+
+- Click & drag to capture  
+- Settings include cursor type & background toggle  
+
+---
+
+## 📌 Always On Top
+
+- Keeps app window above others  
+
+---
+
+## 🔒 Screen Protection
+
+- Hides app from screen-sharing tools (enabled by default)  
+- **Gray button:** Hidden  
+- **White button:** Visible  
+
+---
+
+## 📝 User Input on Screenshot
+
+- Add custom input with screenshot for better responses  
 
 ## **Screenshot**
 - Info Window - Show avialibility of features os specific 
 
-![alt text](Images/Info_Window.png)
+![image](https://github.com/user-attachments/assets/3dc55449-048c-4397-a22d-788ee047b8f7)
 
 - Main Window - UI with all mentioned features
 
-![alt text](Images/Main_Window_1.png)
-
-![alt text](Images/Main_Window_2.png)
+![image](https://github.com/user-attachments/assets/240d03f3-2337-4037-845a-207db2aa53b0)
 
 - User profile - Set up user name and gemini api key
-
-![alt text](Images/User_Profile.png)
+- 
+![image](https://github.com/user-attachments/assets/b2754f08-2888-4a10-81ae-7ea15c56b087)
 
 - App Profile - Set up font color, bg color, opacity, cursor type and screenshot background
+- 
+![image](https://github.com/user-attachments/assets/63b32250-08f8-452b-ad71-2c6d44f9a981)
 
-![alt text](Images/App_Profile.png)
+## Pricing (excluding 15 days free trial) 
 
-## Pricing (excluding 15 days free trial) - EVERYTHING IS NEGOTIABLE
+| Price (INR) | Price (USD) | Period   | Discount / Free         |
+| ----------- | ----------- | -------- | ----------------------- |
+| **₹15**     | **\$0.18**  | Daily    | –                       |
+| **₹79**     | **\$0.93**  | Weekly   | –                       |
+| **₹249**    | **\$2.94**  | Monthly  | Buy 3 months → save 20% |
+| **₹1,299**  | **\$15.35** | 6 Months | +1 extra month          |
 
-| Price (INR) | Price (USD) | Period | Discount/Free |
-|---------|:---------:|:--------:|:--------:|
-| ₹49 | $0.58 | Daily | - |
-| ₹399 | $4.71 | Monthly | 20% on 3 months purchase |
-| ₹1999 | $23.57 | 6 Months | Extra 1 month |
-| ₹3999 | $47.18 | Yearly | Extra 2 months |
 
 Please send the payment details via email for verification. Thank you!
 ## Contact
