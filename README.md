@@ -88,11 +88,11 @@ Click the gear icon (⚙️) to access:
 ![image](https://github.com/user-attachments/assets/240d03f3-2337-4037-845a-207db2aa53b0)
 
 - User profile - Set up user name and gemini api key
-- 
+
 ![image](https://github.com/user-attachments/assets/b2754f08-2888-4a10-81ae-7ea15c56b087)
 
 - App Profile - Set up font color, bg color, opacity, cursor type and screenshot background
-- 
+
 ![image](https://github.com/user-attachments/assets/63b32250-08f8-452b-ad71-2c6d44f9a981)
 
 ## Pricing (excluding 15 days free trial) 
