@@ -2,12 +2,11 @@
 
 > Privacy-focused AI assistant with screen capture protection for Windows
 
-**Version:** 26.1.17
-**Platform:** Windows 10/11 (x64)
-**Framework:** .NET 8.0 / WPF
-**Developer Contact:** dev.linuxto5re@gmail.com
-
----
+**Version:** *26.1.17*  
+**Platform:** *Windows 10/11 (x64)*  
+**Framework:** *.NET 8.0 / WPF*  
+**Developer Contact:** *dev.linuxto5re@gmail.com*  
+**Download Installer:** *https://github.com/LinUxTo5re/Incognito-AI/releases*
 
 ## Overview
 
