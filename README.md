@@ -2,7 +2,7 @@
 
 > Privacy-focused AI assistant with screen capture protection for Windows
 
-**Version:** *26.1.17*  
+**Version:** *26.1.18*  
 **Platform:** *Windows 10/11 (x64)*  
 **Framework:** *.NET 8.0 / WPF*  
 **Developer Contact:** *dev.linuxto5re@gmail.com*  
